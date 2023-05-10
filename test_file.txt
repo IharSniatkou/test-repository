@@ -6,3 +6,4 @@ for branch1
 Edited on GitHub
 
 new line
++ new line (and this)
